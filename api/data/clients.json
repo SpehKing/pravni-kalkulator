@@ -1,0 +1,178 @@
+[
+  {
+    "id": "C001",
+    "client_name": "TechVision GmbH",
+    "matter_description": "Patent licensing agreement review and IP portfolio strategy",
+    "practice_area": "IP",
+    "responsible_lawyer": "L001",
+    "status": "active",
+    "counterparties": ["IndustrieWerk AG", "Siemens AG"],
+    "date_opened": "2024-06-15"
+  },
+  {
+    "id": "C002",
+    "client_name": "IndustrieWerk AG",
+    "matter_description": "Technology licensing negotiations and trade secret protection",
+    "practice_area": "IP",
+    "responsible_lawyer": "L001",
+    "status": "active",
+    "counterparties": ["DeepMaint d.o.o."],
+    "date_opened": "2025-01-10"
+  },
+  {
+    "id": "C003",
+    "client_name": "MedData d.o.o.",
+    "matter_description": "GDPR compliance audit and data processing agreements",
+    "practice_area": "GDPR",
+    "responsible_lawyer": "L003",
+    "status": "active",
+    "counterparties": [],
+    "date_opened": "2024-09-20"
+  },
+  {
+    "id": "C004",
+    "client_name": "FinServ d.d.",
+    "matter_description": "AML compliance program implementation and ZPPDFT-2 advisory",
+    "practice_area": "AML",
+    "responsible_lawyer": "L009",
+    "status": "active",
+    "counterparties": [],
+    "date_opened": "2024-11-05"
+  },
+  {
+    "id": "C005",
+    "client_name": "EuroLogistics d.o.o.",
+    "matter_description": "Cross-border employment contract disputes and restructuring",
+    "practice_area": "employment",
+    "responsible_lawyer": "L007",
+    "status": "active",
+    "counterparties": ["Transport Union SI"],
+    "date_opened": "2025-02-14"
+  },
+  {
+    "id": "C006",
+    "client_name": "CodeNova d.o.o.",
+    "matter_description": "Startup equity structuring and IP assignment from founders",
+    "practice_area": "corporate",
+    "responsible_lawyer": "L005",
+    "status": "former",
+    "counterparties": [],
+    "date_opened": "2022-03-08",
+    "date_closed": "2023-07-15"
+  },
+  {
+    "id": "C007",
+    "client_name": "Alpine Ventures d.o.o.",
+    "matter_description": "Venture capital investment round documentation",
+    "practice_area": "corporate",
+    "responsible_lawyer": "L005",
+    "status": "active",
+    "counterparties": ["CodeNova d.o.o."],
+    "date_opened": "2022-05-20"
+  },
+  {
+    "id": "C008",
+    "client_name": "RetailGroup International Ltd",
+    "matter_description": "Slovenian subsidiary incorporation and compliance setup",
+    "practice_area": "corporate",
+    "responsible_lawyer": "L009",
+    "status": "active",
+    "counterparties": [],
+    "date_opened": "2025-01-22"
+  },
+  {
+    "id": "C009",
+    "client_name": "BioPharm d.o.o.",
+    "matter_description": "Clinical trial agreement review and regulatory compliance",
+    "practice_area": "regulatory",
+    "responsible_lawyer": "L003",
+    "status": "former",
+    "counterparties": ["EMA", "JAZMP"],
+    "date_opened": "2021-08-10",
+    "date_closed": "2022-11-30"
+  },
+  {
+    "id": "C010",
+    "client_name": "SoftBridge d.o.o.",
+    "matter_description": "Software development agreement disputes and IP ownership",
+    "practice_area": "dispute_resolution",
+    "responsible_lawyer": "L010",
+    "status": "active",
+    "counterparties": ["GlobalDev GmbH"],
+    "date_opened": "2025-03-01"
+  },
+  {
+    "id": "C011",
+    "client_name": "GlobalCorp International Ltd",
+    "matter_description": "Slovenian employment law advisory for subsidiary management",
+    "practice_area": "employment",
+    "responsible_lawyer": "L007",
+    "status": "former",
+    "counterparties": [],
+    "date_opened": "2020-06-15",
+    "date_closed": "2021-12-31"
+  },
+  {
+    "id": "C012",
+    "client_name": "DataTrust AG",
+    "matter_description": "Cross-border data sharing framework and DPA review",
+    "practice_area": "GDPR",
+    "responsible_lawyer": "L003",
+    "status": "active",
+    "counterparties": [],
+    "date_opened": "2024-10-15"
+  },
+  {
+    "id": "C013",
+    "client_name": "Manufacture Plus d.o.o.",
+    "matter_description": "Commercial contract dispute and arbitration proceedings",
+    "practice_area": "dispute_resolution",
+    "responsible_lawyer": "L010",
+    "status": "active",
+    "counterparties": ["Czech Steel s.r.o."],
+    "date_opened": "2025-01-08"
+  },
+  {
+    "id": "C014",
+    "client_name": "GreenEnergy d.d.",
+    "matter_description": "Renewable energy project M&A and regulatory permits",
+    "practice_area": "M&A",
+    "responsible_lawyer": "L005",
+    "status": "former",
+    "counterparties": ["Austrian Energy GmbH"],
+    "date_opened": "2023-04-12",
+    "date_closed": "2024-02-28"
+  },
+  {
+    "id": "C015",
+    "client_name": "MarketPulse d.o.o.",
+    "matter_description": "Digital marketing platform terms of service and data processing",
+    "practice_area": "technology_contracts",
+    "responsible_lawyer": "L002",
+    "status": "former",
+    "counterparties": [],
+    "date_opened": "2021-11-05",
+    "date_closed": "2022-08-20"
+  },
+  {
+    "id": "C016",
+    "client_name": "Adriatic Insurance d.d.",
+    "matter_description": "Insurance regulatory compliance and internal AML procedures",
+    "practice_area": "AML",
+    "responsible_lawyer": "L009",
+    "status": "active",
+    "counterparties": [],
+    "date_opened": "2024-07-10"
+  },
+  {
+    "id": "C017",
+    "client_name": "NovaMed AG",
+    "matter_description": "Cross-border M&A — acquisition of Slovenian diagnostics startup",
+    "practice_area": "M&A",
+    "responsible_lawyer": "L006",
+    "status": "former",
+    "counterparties": ["DiagnoseSI d.o.o."],
+    "date_opened": "2023-09-01",
+    "date_closed": "2024-05-15"
+  }
+]

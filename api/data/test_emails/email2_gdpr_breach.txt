@@ -1,0 +1,16 @@
+From: Petra Krajnc <petra.krajnc@webshop.si>
+To: info@jadek-pensa.si
+Subject: URGENT: Data breach - need immediate legal help
+Date: Mon, 10 Mar 2026 07:30:00 +0100
+
+Dear Jadek & Pensa team,
+
+I am the Head of Legal at WebShop d.o.o., a mid-sized Slovenian e-commerce company.
+
+Over the weekend (Saturday evening), we discovered that a third-party marketing platform we use (MarketPulse) exposed customer email addresses and purchase histories of approximately 12,000 customers. We have contained the breach as of Sunday morning, but we have NOT made any notifications — neither to the Information Commissioner nor to affected customers.
+
+We are unsure about our exact obligations and timelines. Can you help us urgently?
+
+Best regards,
+Petra Krajnc
+Head of Legal, WebShop d.o.o.

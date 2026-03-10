@@ -7,3 +7,4 @@ dist-ssr
 .netlify
 # Local env vars
 .env
+.vercel

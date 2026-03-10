@@ -1,0 +1,112 @@
+[
+  {
+    "id": "L001",
+    "name": "Ana Novak",
+    "title": "Partner",
+    "specializations": ["IP", "technology_contracts", "M&A"],
+    "experience_description": "15 years in IP litigation and technology licensing, led 50+ patent and trade secret matters across EU jurisdictions",
+    "languages": ["sl", "en", "de"],
+    "current_workload": "medium",
+    "capacity_status": "AMBER",
+    "email": "ana.novak@jadek-pensa.si"
+  },
+  {
+    "id": "L002",
+    "name": "Tomaž Kranjc",
+    "title": "Senior Associate",
+    "specializations": ["IP", "technology_contracts"],
+    "experience_description": "8 years specializing in software patents, open-source license compliance, and IP due diligence for tech transactions",
+    "languages": ["sl", "en"],
+    "current_workload": "low",
+    "capacity_status": "GREEN",
+    "email": "tomaz.kranjc@jadek-pensa.si"
+  },
+  {
+    "id": "L003",
+    "name": "Maja Vidmar",
+    "title": "Partner",
+    "specializations": ["GDPR", "regulatory", "technology_contracts"],
+    "experience_description": "12 years in data protection law, certified DPO, led GDPR breach responses for 20+ companies including major e-commerce platforms",
+    "languages": ["sl", "en", "fr"],
+    "current_workload": "low",
+    "capacity_status": "GREEN",
+    "email": "maja.vidmar@jadek-pensa.si"
+  },
+  {
+    "id": "L004",
+    "name": "Rok Šuštar",
+    "title": "Associate",
+    "specializations": ["GDPR", "regulatory"],
+    "experience_description": "5 years in privacy law and GDPR compliance, experience with Information Commissioner filings and cross-border data transfer frameworks",
+    "languages": ["sl", "en"],
+    "current_workload": "medium",
+    "capacity_status": "AMBER",
+    "email": "rok.sustar@jadek-pensa.si"
+  },
+  {
+    "id": "L005",
+    "name": "Dr. Vesna Kovačič",
+    "title": "Managing Partner",
+    "specializations": ["M&A", "corporate", "technology_contracts"],
+    "experience_description": "20 years in M&A transactions and cross-border acquisitions, led due diligence on 30+ tech company acquisitions across CEE",
+    "languages": ["sl", "en", "de"],
+    "current_workload": "high",
+    "capacity_status": "RED",
+    "email": "vesna.kovacic@jadek-pensa.si"
+  },
+  {
+    "id": "L006",
+    "name": "Gašper Lah",
+    "title": "Senior Associate",
+    "specializations": ["M&A", "corporate", "IP"],
+    "experience_description": "10 years in tech M&A due diligence, specializing in IP ownership verification and employee agreement reviews for acquisitions",
+    "languages": ["sl", "en"],
+    "current_workload": "low",
+    "capacity_status": "GREEN",
+    "email": "gasper.lah@jadek-pensa.si"
+  },
+  {
+    "id": "L007",
+    "name": "Nataša Božič",
+    "title": "Partner",
+    "specializations": ["employment", "dispute_resolution"],
+    "experience_description": "14 years in employment law and labor disputes, extensive experience with ZDR-1, wrongful dismissal cases, and labor court proceedings",
+    "languages": ["sl", "en"],
+    "current_workload": "medium",
+    "capacity_status": "AMBER",
+    "email": "natasa.bozic@jadek-pensa.si"
+  },
+  {
+    "id": "L008",
+    "name": "Boštjan Mrak",
+    "title": "Associate",
+    "specializations": ["employment", "corporate"],
+    "experience_description": "6 years in employment law, experience with Slovenian labor regulations, non-compete agreements, and restructuring matters",
+    "languages": ["sl", "en", "hr"],
+    "current_workload": "low",
+    "capacity_status": "GREEN",
+    "email": "bostjan.mrak@jadek-pensa.si"
+  },
+  {
+    "id": "L009",
+    "name": "Irena Petrič",
+    "title": "Partner",
+    "specializations": ["corporate", "AML", "regulatory"],
+    "experience_description": "18 years in corporate law and AML compliance, firm's AML compliance officer, deep expertise in ZPPDFT-2 and EU AML Directives",
+    "languages": ["sl", "en", "de", "it"],
+    "current_workload": "medium",
+    "capacity_status": "AMBER",
+    "email": "irena.petric@jadek-pensa.si"
+  },
+  {
+    "id": "L010",
+    "name": "Andrej Zorman",
+    "title": "Senior Associate",
+    "specializations": ["dispute_resolution", "corporate", "M&A"],
+    "experience_description": "9 years in commercial dispute resolution, arbitration, and litigation before Slovenian courts and ICC",
+    "languages": ["sl", "en"],
+    "current_workload": "low",
+    "capacity_status": "GREEN",
+    "email": "andrej.zorman@jadek-pensa.si"
+  }
+]

@@ -11,6 +11,7 @@
   "workspace": {
     "packageJson": {
       "dependencies": [
+        "npm:@anthropic-ai/sdk@0.78",
         "npm:@tailwindcss/forms@~0.5.10",
         "npm:@tailwindcss/postcss@^4.0.2",
         "npm:@vitejs/plugin-vue@^5.2.1",

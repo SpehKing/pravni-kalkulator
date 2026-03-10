@@ -1,5 +1,5 @@
 import { createRouter, createWebHistory } from 'vue-router'
-import CaseWizard from './pages/CaseWizard.vue'
+import EmailIntake from './pages/EmailIntake.vue'
 
 const routerHistory = createWebHistory()
 
@@ -8,11 +8,11 @@ const router = createRouter({
   routes: [
     {
       path: '/',
-      component: CaseWizard
+      component: EmailIntake
     },
     {
       path: '/:pathMatch(.*)*',
-      component: CaseWizard
+      component: EmailIntake
     }
   ]
 })

@@ -5,7 +5,7 @@
       class="flex items-center h-16 px-6 sm:px-8 shrink-0"
       style="background-color: #fffdf9; border-bottom: 1px solid #e0dad0"
     >
-      <div class="flex items-center gap-3">
+      <div class="flex items-center gap-3 flex-1">
         <!-- Scales of justice SVG -->
         <svg
           width="24"
@@ -83,6 +83,19 @@
           Pravni Kalkulator
         </span>
       </div>
+      <!-- Nav links -->
+      <nav style="display: flex; align-items: center; gap: 0.25rem;">
+        <a
+          href="/"
+          style="font-size: 0.8rem; font-weight: 600; padding: 0.35rem 0.85rem; border-radius: 9999px; text-decoration: none; background: #1A1A1A; color: #FFFDF9;"
+        >Pravni kalkulator</a>
+        <a
+          href="/email-intake"
+          style="font-size: 0.8rem; padding: 0.35rem 0.85rem; border-radius: 9999px; text-decoration: none; color: #8A8279; transition: color 0.2s;"
+          @mouseenter="e => e.currentTarget.style.color = '#1A1A1A'"
+          @mouseleave="e => e.currentTarget.style.color = '#8A8279'"
+        >E-poštni sprejem</a>
+      </nav>
     </header>
 
     <!-- Error banner -->

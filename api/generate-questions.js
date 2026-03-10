@@ -1,21 +1,19 @@
 import OpenAI from 'openai'
 
-export default async (req) => {
+export default async function handler(req, res) {
   if (req.method !== 'POST') {
-    return new Response('Method Not Allowed', { status: 405 })
+    return res.status(405).send('Method Not Allowed')
   }
 
-  let body
-  try {
-    body = await req.json()
-  } catch {
-    return new Response(JSON.stringify({ error: 'Invalid JSON' }), { status: 400 })
+  const body = req.body
+  if (!body) {
+    return res.status(400).json({ error: 'Invalid JSON' })
   }
 
   const { description, fileNames = [] } = body
 
   if (!description || description.trim().length < 10) {
-    return new Response(JSON.stringify({ error: 'Opis je prekratek.' }), { status: 400 })
+    return res.status(400).json({ error: 'Opis je prekratek.' })
   }
 
   const openai = new OpenAI({ apiKey: process.env.OPENAI_API_KEY })
@@ -45,14 +43,9 @@ export default async (req) => {
     const parsed = JSON.parse(completion.choices[0].message.content)
     const questions = parsed.questions || parsed
 
-    return new Response(JSON.stringify(questions), {
-      status: 200,
-      headers: { 'Content-Type': 'application/json' },
-    })
+    return res.status(200).json(questions)
   } catch (e) {
     console.error('OpenAI error:', e)
-    return new Response(JSON.stringify({ error: 'Napaka pri klicu AI.' }), { status: 500 })
+    return res.status(500).json({ error: 'Napaka pri klicu AI.' })
   }
 }
-
-export const config = { path: '/api/generate-questions' }

@@ -1,0 +1,16 @@
+From: Marko Kovač <marko@deepmaint.si>
+To: info@jadek-pensa.si
+Subject: Zaščita intelektualne lastnine pred licenčnimi pogajanji
+Date: Mon, 10 Mar 2026 08:15:00 +0100
+
+Spoštovani,
+
+sem CTO podjetja DeepMaint d.o.o., slovenskega deeptech startupa. Razvili smo nov algoritem za prediktivno vzdrževanje v proizvodnji. Trenutno nimamo nobenih patentov.
+
+Imamo tri soustanovitelje. Eden od njih, Gregor Zupan, zapušča podjetje in nismo prepričani, kako je z dodelitvijo IP pravic iz njegove pogodbe o zaposlitvi.
+
+Kmalu vstopamo v pogajanja z nemškim industrijskim partnerjem IndustrieWerk AG, ki želi licencirati našo tehnologijo. Ali nam lahko pomagate zaščititi našo intelektualno lastnino, preden karkoli podpišemo?
+
+Hvala in lep pozdrav,
+Marko Kovač
+CTO, DeepMaint d.o.o.

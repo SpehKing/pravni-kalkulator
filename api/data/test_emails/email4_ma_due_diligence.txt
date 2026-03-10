@@ -1,0 +1,20 @@
+From: Dr. Klaus Weber <k.weber@techacquire.de>
+To: info@jadek-pensa.si
+Subject: Legal due diligence for acquisition of Slovenian software company
+Date: Mon, 10 Mar 2026 09:00:00 +0100
+
+Dear colleagues,
+
+I am General Counsel of TechAcquire GmbH, a German technology company. We are in advanced negotiations to acquire CodeNova d.o.o., a Slovenian software company.
+
+We need comprehensive legal due diligence covering four workstreams:
+1. IP ownership verification (ensuring all code IP is properly assigned to the company)
+2. Open source license compliance review
+3. Employee agreements review (key person clauses, non-competes, IP assignment)
+4. GDPR compliance assessment (they process EU customer data)
+
+Can your firm handle all four workstreams? What would the timeline and team look like?
+
+Kind regards,
+Dr. Klaus Weber
+General Counsel, TechAcquire GmbH

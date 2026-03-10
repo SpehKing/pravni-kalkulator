@@ -1,0 +1,74 @@
+{
+  "IP_protection": {
+    "min_hours": 20,
+    "max_hours": 60,
+    "hourly_rate": 250,
+    "description": "IP audit, patent strategy, trade secret documentation, licensing agreement review"
+  },
+  "IP_litigation": {
+    "min_hours": 40,
+    "max_hours": 120,
+    "hourly_rate": 280,
+    "description": "Patent/trademark infringement proceedings, injunctions, enforcement"
+  },
+  "GDPR_compliance": {
+    "min_hours": 15,
+    "max_hours": 40,
+    "hourly_rate": 260,
+    "description": "GDPR compliance audit, DPA drafting, privacy policy review"
+  },
+  "GDPR_breach": {
+    "min_hours": 15,
+    "max_hours": 40,
+    "hourly_rate": 280,
+    "description": "Breach response, regulatory notification, Information Commissioner liaison"
+  },
+  "M&A_due_diligence": {
+    "min_hours": 80,
+    "max_hours": 200,
+    "hourly_rate": 300,
+    "description": "Full DD across legal workstreams (IP, employment, corporate, regulatory)"
+  },
+  "M&A_transaction": {
+    "min_hours": 60,
+    "max_hours": 160,
+    "hourly_rate": 320,
+    "description": "Transaction documentation, SPA negotiation, closing mechanics"
+  },
+  "employment_dispute": {
+    "min_hours": 10,
+    "max_hours": 30,
+    "hourly_rate": 220,
+    "description": "Employment dispute advisory, wrongful dismissal defense, labor court representation"
+  },
+  "employment_advisory": {
+    "min_hours": 5,
+    "max_hours": 20,
+    "hourly_rate": 200,
+    "description": "Employment contract review, HR policy drafting, ZDR-1 compliance"
+  },
+  "corporate_setup": {
+    "min_hours": 15,
+    "max_hours": 40,
+    "hourly_rate": 260,
+    "description": "Subsidiary incorporation, shareholder agreements, corporate governance"
+  },
+  "AML_compliance": {
+    "min_hours": 20,
+    "max_hours": 50,
+    "hourly_rate": 270,
+    "description": "AML compliance program, ZPPDFT-2 advisory, KYC procedures"
+  },
+  "dispute_resolution": {
+    "min_hours": 20,
+    "max_hours": 80,
+    "hourly_rate": 240,
+    "description": "Commercial dispute, arbitration, court litigation"
+  },
+  "technology_contracts": {
+    "min_hours": 10,
+    "max_hours": 35,
+    "hourly_rate": 240,
+    "description": "Software licensing, SaaS agreements, development contracts"
+  }
+}

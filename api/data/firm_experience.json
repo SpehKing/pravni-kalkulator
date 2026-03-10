@@ -1,0 +1,58 @@
+[
+  {
+    "id": "E001",
+    "practice_area": "IP",
+    "description": "Advised a leading Slovenian deeptech company on a multi-jurisdictional patent portfolio strategy covering 5 EU countries, successfully protecting core algorithms from competitor challenges.",
+    "year": 2024,
+    "domains": ["IP", "technology_contracts"]
+  },
+  {
+    "id": "E002",
+    "practice_area": "IP",
+    "description": "Led IP due diligence for a €45M acquisition of a Slovenian AI startup, identifying and resolving three critical IP ownership gaps in co-founder agreements before closing.",
+    "year": 2024,
+    "domains": ["IP", "M&A", "corporate"]
+  },
+  {
+    "id": "E003",
+    "practice_area": "GDPR",
+    "description": "Managed a GDPR breach response for a major Slovenian e-commerce platform affecting 50,000+ customer records, successfully coordinating notification to the Information Commissioner within the 72-hour deadline.",
+    "year": 2023,
+    "domains": ["GDPR", "regulatory"]
+  },
+  {
+    "id": "E004",
+    "practice_area": "GDPR",
+    "description": "Designed a comprehensive GDPR compliance framework for a cloud SaaS provider, including data processing agreements with 40+ sub-processors and a cross-border data transfer program.",
+    "year": 2024,
+    "domains": ["GDPR", "technology_contracts"]
+  },
+  {
+    "id": "E005",
+    "practice_area": "M&A",
+    "description": "Conducted full legal due diligence for the acquisition of a 120-person Slovenian software company, covering IP, employment contracts, open source compliance, and GDPR — closing in 8 weeks.",
+    "year": 2023,
+    "domains": ["M&A", "IP", "employment", "GDPR"]
+  },
+  {
+    "id": "E006",
+    "practice_area": "employment",
+    "description": "Successfully defended a multinational Slovenian subsidiary against a whistleblower retaliation claim, securing a dismissal of proceedings before the Ljubljana Labour Court.",
+    "year": 2024,
+    "domains": ["employment", "dispute_resolution"]
+  },
+  {
+    "id": "E007",
+    "practice_area": "AML",
+    "description": "Implemented a full AML compliance program for a Slovenian financial institution under ZPPDFT-2, including risk assessment, KYC procedures, and staff training.",
+    "year": 2024,
+    "domains": ["AML", "regulatory", "corporate"]
+  },
+  {
+    "id": "E008",
+    "practice_area": "corporate",
+    "description": "Advised on the establishment of three Slovenian subsidiaries for foreign holding groups, including optimal corporate structure analysis, tax considerations, and regulatory filings.",
+    "year": 2025,
+    "domains": ["corporate", "regulatory"]
+  }
+]
