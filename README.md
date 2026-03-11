@@ -1,3 +1,5 @@
+# 🌐 Live Demo: [ailaw-omega.vercel.app](https://ailaw-omega.vercel.app)
+
 # LegalAI Intake — AI-Powered Client Intake System for Law Firms
 
 An end-to-end intelligent intake system that processes incoming client emails, classifies their legal matter, assesses compliance risk, matches them with the right attorney, and generates a personalized, professional response — all in seconds.
