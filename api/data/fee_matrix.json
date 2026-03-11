@@ -70,5 +70,63 @@
     "max_hours": 35,
     "hourly_rate": 240,
     "description": "Software licensing, SaaS agreements, development contracts"
-  }
+  },
+  "patent_deadlines": [
+    {
+      "rok": 7300,
+      "scenarij": "Evropski patent traja največ 20 let od datuma vložitve; po izteku ni več mogoče uveljavljati kršitev, pravice ugasnejo."
+    },
+    {
+      "rok": 365,
+      "scenarij": "Če ste najprej vložili nacionalno ali interno prvo prijavo, imate 12 mesecev, da vložite evropsko prijavo in ohranite isti prioritetni datum; po tem prioritetne pravice ni več."
+    },
+    {
+      "rok": 365,
+      "scenarij": "Vsako leto po vložitvi je treba plačati pristojbino za vzdrževanje prijave; če zamudite osnovni rok, imate še 6 mesecev z doplačilom, sicer prijava preneha."
+    },
+    {
+      "rok": 480,
+      "scenarij": "Pri uveljavljanju ene ali več prioritet je treba pravočasno navesti in po potrebi dokazati prioritetne prijave; če zamudite, EPO prioritete ne prizna, kar vpliva na novost."
+    },
+    {
+      "rok": null,
+      "scenarij": "Če prvotno prijavo ni vložil isti subjekt, je treba v predpisanem roku predložiti dokazilo, da imate pravico do prioritete; če tega ne storite, se prioriteta ne prizna."
+    },
+    {
+      "rok": 90,
+      "scenarij": "V državah, ki zahtevajo prevod, mora imetnik v 3 mesecih po objavi podelitve ali omejitve predložiti prevod; če to zamudi, patent v tej državi nima učinka ali se šteje za neveljavnega."
+    },
+    {
+      "rok": 270,
+      "scenarij": "Po objavi podelitve evropskega patenta v EP biltenu ima tretja oseba 9 mesecev, da vloži ugovor na EPO; po preteku roka patent običajno izpodbija le še pred nacionalnimi sodišči."
+    },
+    {
+      "rok": 90,
+      "scenarij": "Če ste že toženi zaradi kršitve evropskega patenta, lahko intervenirate v že tekočem ugovornem postopku pri EPO v 3 mesecih od datuma vložitve nacionalne tožbe oziroma od obvestila o njej."
+    },
+    {
+      "rok": 60,
+      "scenarij": "Od vročitve odločbe imate 2 meseca, da vložite pritožbo in plačate pritožbeno takso; če rok zamudite, odločba postane dokončna."
+    },
+    {
+      "rok": 120,
+      "scenarij": "V 4 mesecih od vročitve iste odločbe morate predložiti pisno obrazložitev pritožbe; če je ne vložite, se pritožba zavrže kot nedopustna."
+    },
+    {
+      "rok": 90,
+      "scenarij": "Če oddelek prve stopnje v 3 mesecih po prejemu obrazložitve ne popravi svoje odločbe, mora zadevo brez odlašanja odstopiti pritožbenemu senatu."
+    },
+    {
+      "rok": 60,
+      "scenarij": "Za izredno pravno sredstvo proti odločbi pritožbenega senata ima stranka 2 meseca; po izteku roka revizija ni več možna."
+    },
+    {
+      "rok": 60,
+      "scenarij": "Če zamudite določen rok v postopku pred EPO, lahko v 2 mesecih s plačilom takse in izvedbo dejanja ponovno aktivirate zadevo, razen za izrecno izključene roke."
+    },
+    {
+      "rok": 60,
+      "scenarij": "Če ste kak rok zamudili kljub dolžni skrbnosti, lahko zahtevate obnovitev pravic v navedenih rokih; če zamudite tudi te, pravica dokončno ugasne."
+    }
+  ]
 }

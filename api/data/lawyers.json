@@ -1,112 +1,1174 @@
 [
   {
-    "id": "L001",
-    "name": "Ana Novak",
-    "title": "Partner",
-    "specializations": ["IP", "technology_contracts", "M&A"],
-    "experience_description": "15 years in IP litigation and technology licensing, led 50+ patent and trade secret matters across EU jurisdictions",
-    "languages": ["sl", "en", "de"],
-    "current_workload": "medium",
-    "capacity_status": "AMBER",
-    "email": "ana.novak@jadek-pensa.si"
+    "short_name": "IRPE",
+    "name": "Iris Pensa",
+    "work": "V pisarni vodi delovnopravni in imigracijski oddelek in ekipo, ki svetuje družbam pri vzpostavitvi in izboljšanju trajnostnih politik z vidika ESG.Akreditacija CEDR za mediatorja (2021)Vodja Mediacijskega centra Odvetniške zbornice Slovenije (od 2023)\nMediatorka na Višjem sodišču v Ljubljani (od 2020)\nMediatorka na CEDR's P2B Panel (2020)\nIzvoljena na listo mediatorjev za mediacijo pri Odvetniški zbornici Slovenije v individualnih delovnih sporih med delodajalci in zaposlenimi pri odvetniku ali odv. družbi (od 2018)",
+    "cases": [
+      {
+        "case": "Mediacija v individualnem delovnem sporu med LexAdria d.o.o. in zaposleno M. P.",
+        "podrocje_prava": [
+          "delovno pravo",
+          "mediacija",
+          "reševanje sporov"
+        ],
+        "zastopana_stranka": "LexAdria d.o.o.",
+        "kljucne_znacilnosti_problemi": [
+          "spor glede zakonitosti odpovedi pogodbe o zaposlitvi",
+          "mediacijski postopek med delodajalcem in zaposleno pred začetkom sodnega postopka",
+          "vprašanje odškodnine, reintegracije in sporazumne razrešitve delovnega razmerja",
+          "iskanje dolgoročno vzdržne rešitve za obe strani"
+        ]
+      },
+      {
+        "case": "Postopek glede zaposlovanja tujcev med BuildGlobal d.d. in Upravna enota Ljubljana",
+        "podrocje_prava": [
+          "migracijsko pravo",
+          "delovno pravo",
+          "upravno pravo"
+        ],
+        "zastopana_stranka": "BuildGlobal d.d.",
+        "kljucne_znacilnosti_problemi": [
+          "postopek pridobivanja enotnih dovoljenj za delo in prebivanje za več tujih delavcev",
+          "presoja izpolnjevanja pogojev za zaposlitev državljanov tretjih držav",
+          "usklajevanje delovnopravne dokumentacije z migracijskimi zahtevami",
+          "zastopanje v postopku pred pristojnimi državnimi organi"
+        ]
+      },
+      {
+        "case": "ESG uskladitev kadrovskih politik za GreenManufacturing Group d.d.",
+        "podrocje_prava": [
+          "ESG",
+          "delovno pravo",
+          "regulatorna skladnost"
+        ],
+        "zastopana_stranka": "GreenManufacturing Group d.d.",
+        "kljucne_znacilnosti_problemi": [
+          "vzpostavitev in izboljšanje trajnostnih politik podjetja z vidika zaposlenih",
+          "pregled internih pravil glede enakosti, vključevanja in varnega delovnega okolja",
+          "priprava pravnih smernic za ESG poročanje na področju delovne sile",
+          "uskladitev kadrovskih praks z zahtevami trajnostnega upravljanja"
+        ]
+      },
+      {
+        "case": "Mediacija v sporu zaradi diskriminacije med AdriaLegal d.o.o. in zaposlenim T. R.",
+        "podrocje_prava": [
+          "delovno pravo",
+          "protidiskriminacijsko pravo",
+          "mediacija"
+        ],
+        "zastopana_stranka": "AdriaLegal d.o.o.",
+        "kljucne_znacilnosti_problemi": [
+          "spor zaradi domnevne neenake obravnave pri napredovanju",
+          "mediacijski postopek v individualnem delovnem sporu",
+          "vprašanje odprave posledic diskriminacije in interne sanacije delovnega okolja",
+          "dogovor o spremembi internih pravil in morebitni odškodnini"
+        ]
+      },
+      {
+        "case": "Delovnopravna reorganizacija in relokacija tujega kadra za TechMobility d.o.o.",
+        "podrocje_prava": [
+          "delovno pravo",
+          "migracijsko pravo",
+          "gospodarsko pravo"
+        ],
+        "zastopana_stranka": "TechMobility d.o.o.",
+        "kljucne_znacilnosti_problemi": [
+          "reorganizacija podjetja z vključitvijo strokovnjakov iz tujine",
+          "priprava pogodb o zaposlitvi in relokacijske dokumentacije za tuje zaposlene",
+          "vprašanja skladnosti z zakonodajo glede dela tujcev in spremembe delodajalca",
+          "svetovanje glede notranjih politik mobilnosti in delovnih razmerij"
+        ]
+      }
+    ]
   },
   {
-    "id": "L002",
-    "name": "Tomaž Kranjc",
-    "title": "Senior Associate",
-    "specializations": ["IP", "technology_contracts"],
-    "experience_description": "8 years specializing in software patents, open-source license compliance, and IP due diligence for tech transactions",
-    "languages": ["sl", "en"],
-    "current_workload": "low",
-    "capacity_status": "GREEN",
-    "email": "tomaz.kranjc@jadek-pensa.si"
+    "short_name": "ANJA",
+    "name": "Andraž Jadek",
+    "work": "Andraž Jadek je partner in namestnik vodje enote transakcij v Odvetniški pisarni Jadek & Pensa. Specializiran je za M&A in druge poslovne transakcije, korporacijska in finančna prestrukturiranja, bančne posle ter korporacijsko in energetsko pravo. Svetuje tudi skladom tveganega kapitala ter zagonskim podjetjem in podjetnikom. Sodeloval je pri zahtevnih transakcijah in prestrukturiranjih ter sindiciranem kreditiranju domačih in tujih sistemov ter družb. Andraž je magister korporacijskega prava z Univerze New York in je od leta 2013 član odvetniške zbornice Slovenije in zbornice zvezne države New York, ZDA. Mednarodni pravni direktoriji ga uvrščajo med priznane slovenske odvetnike na področju M&A, bančništva in trgov kapitala.",
+    "cases": [
+      {
+        "case": "Privatizacija banke Abanka d.d.",
+        "podrocje_prava": [
+          "bančno pravo",
+          "M&A",
+          "privatizacija"
+        ],
+        "kljucne_znacilnosti_problemi": [
+          "prodaja državnega deleža v banki",
+          "kompleksna struktura transakcije v procesu privatizacije",
+          "regulativni nadzor (EU in slovenski regulatorji)",
+          "vključitev med največje slovenske bančne transakcije"
+        ]
+      },
+      {
+        "case": "Prevzem večinskega deleža v Intereuropa d.d. s strani Pošta Slovenije",
+        "podrocje_prava": [
+          "M&A",
+          "korporacijsko pravo",
+          "logistika"
+        ],
+        "kljucne_znacilnosti_problemi": [
+          "strateški prevzem logističnega podjetja",
+          "integracija logistične infrastrukture",
+          "usklajevanje z regulacijo trga kapitala",
+          "kompleksni pogodbeni in delničarski dogovori"
+        ]
+      }
+    ]
   },
   {
-    "id": "L003",
-    "name": "Maja Vidmar",
-    "title": "Partner",
-    "specializations": ["GDPR", "regulatory", "technology_contracts"],
-    "experience_description": "12 years in data protection law, certified DPO, led GDPR breach responses for 20+ companies including major e-commerce platforms",
-    "languages": ["sl", "en", "fr"],
-    "current_workload": "low",
-    "capacity_status": "GREEN",
-    "email": "maja.vidmar@jadek-pensa.si"
+    "short_name": "DORO",
+    "name": "Domen Romih",
+    "work": "Domen Romih je partner v Odvetniški pisarni Jadek & Pensa in vodi zadeve s področja davčnega prava. Svetuje pri davčnih analizah obstoječih ali načrtovanih poslov, pri prestrukturiranjih družb in poslovnih procesov ter pri zahtevnih nepremičninskih poslih. Specializiran je za davčno svetovanje pri transakcijah in za zastopanje v postopkih davčnega nadzora. Usmerjen je k razumevanju davčnih vidikov novih poslovnih modelov digitalne ekonomije, ki spreminjajo vloge strank v transakcijah, in aktivno pristopa k iskanju učinkovitih davčnih rešitev pri implementaciji novih tehnologij.",
+    "cases": [
+      {
+        "case": "Davčni nadzor nad digitalno platformo FinData d.o.o.",
+        "podrocje_prava": [
+          "davčno pravo",
+          "digitalna ekonomija",
+          "davčni nadzor"
+        ],
+        "zastopana_stranka": "FinData d.o.o.",
+        "kljucne_znacilnosti_problemi": [
+          "postopek davčnega nadzora glede pravilne obdavčitve prihodkov iz digitalnih storitev",
+          "presoja davčne rezidentnosti in obdavčitve čezmejnih transakcij",
+          "analiza novih poslovnih modelov digitalne ekonomije",
+          "zastopanje v postopku pred davčnim organom"
+        ]
+      },
+      {
+        "case": "Davčno strukturiranje prevzema nepremičninskega portfelja med RealEstate Capital d.d. in UrbanProperty d.o.o.",
+        "podrocje_prava": [
+          "davčno pravo",
+          "nepremičninsko pravo",
+          "M&A"
+        ],
+        "zastopana_stranka": "RealEstate Capital d.d.",
+        "kljucne_znacilnosti_problemi": [
+          "davčna analiza prenosa nepremičninskega portfelja med povezanimi družbami",
+          "presoja davčnih posledic prenosa lastništva nepremičnin",
+          "optimizacija davčne strukture transakcije",
+          "usklajevanje transakcije z davčno zakonodajo"
+        ]
+      },
+      {
+        "case": "Davčni spor glede transfernih cen med TechGlobal d.o.o. in GlobalTech Holdings Ltd.",
+        "podrocje_prava": [
+          "davčno pravo",
+          "mednarodno davčno pravo",
+          "transferne cene"
+        ],
+        "zastopana_stranka": "TechGlobal d.o.o.",
+        "kljucne_znacilnosti_problemi": [
+          "spor zaradi domnevno nepravilno določenih transfernih cen med povezanimi družbami",
+          "presoja skladnosti cen z OECD smernicami",
+          "dodatna odmera davka na dobiček pravnih oseb",
+          "zastopanje v postopku davčnega nadzora"
+        ]
+      },
+      {
+        "case": "Davčno prestrukturiranje skupine GreenEnergy Group d.d.",
+        "podrocje_prava": [
+          "davčno pravo",
+          "korporacijsko pravo",
+          "prestrukturiranje podjetij"
+        ],
+        "zastopana_stranka": "GreenEnergy Group d.d.",
+        "kljucne_znacilnosti_problemi": [
+          "prestrukturiranje skupine družb z davčnega vidika",
+          "presoja davčnih posledic prenosa poslovnih enot",
+          "optimizacija davčne strukture skupine",
+          "uskladitev poslovnih procesov z davčno zakonodajo"
+        ]
+      },
+      {
+        "case": "Davčna analiza uvedbe nove fintech storitve za PayFlow d.o.o.",
+        "podrocje_prava": [
+          "davčno pravo",
+          "digitalna ekonomija",
+          "finančne storitve"
+        ],
+        "zastopana_stranka": "PayFlow d.o.o.",
+        "kljucne_znacilnosti_problemi": [
+          "analiza davčnih posledic novega digitalnega poslovnega modela",
+          "presoja obdavčitve provizij in digitalnih storitev",
+          "pregled skladnosti poslovanja z davčno zakonodajo",
+          "svetovanje glede davčne optimizacije nove storitve"
+        ]
+      }
+    ]
   },
   {
-    "id": "L004",
-    "name": "Rok Šuštar",
-    "title": "Associate",
-    "specializations": ["GDPR", "regulatory"],
-    "experience_description": "5 years in privacy law and GDPR compliance, experience with Information Commissioner filings and cross-border data transfer frameworks",
-    "languages": ["sl", "en"],
-    "current_workload": "medium",
-    "capacity_status": "AMBER",
-    "email": "rok.sustar@jadek-pensa.si"
+    "short_name": "MIPO",
+    "name": "Mitja Podpečan",
+    "work": "Mitja Podpečan je partner in vodja enote za reševanje sporov (pravde, arbitraže in drugi postopki). S postopki se ukvarja od svoje prve zaposlitve naprej in si je v celotnem času službovanja pridobil bogate izkušnje zlasti v sodnih in upravnih postopkih. Poleg specialističnega znanja s področja gospodarskega in civilnega prava razpolaga s poglobljenim poznavanjem informacijske in telekomunikacijske tehnologije, kar uspešno združuje s svojim pravnim znanjem zlasti glede vprašanj varstva osebnih podatkov, elektronskih komunikacij, elektronskega poslovanja na trgu, nove ekonomije in novih tehnologij, vključno s tehnologijo masovnih podatkov in umetne inteligence.",
+    "cases": [
+      {
+        "case": "Spor zaradi kršitve GDPR med DataCloud d.o.o. in European Data Protection Authority",
+        "podrocje_prava": [
+          "varstvo osebnih podatkov",
+          "IT pravo",
+          "upravni postopki"
+        ],
+        "zastopana_stranka": "DataCloud d.o.o.",
+        "kljucne_znacilnosti_problemi": [
+          "preiskava zaradi domnevno nezakonite obdelave osebnih podatkov uporabnikov",
+          "vprašanje zakonite pravne podlage za obdelavo velikih podatkovnih zbirk",
+          "upravno-pravni spor zaradi izrečene globe regulatorja",
+          "analiza skladnosti poslovnega modela z GDPR"
+        ]
+      },
+      {
+        "case": "Gospodarski spor glede platforme za elektronsko poslovanje med MarketHub d.o.o. in DigitalTrade GmbH",
+        "podrocje_prava": [
+          "gospodarsko pravo",
+          "elektronsko poslovanje",
+          "reševanje sporov"
+        ],
+        "zastopana_stranka": "MarketHub d.o.o.",
+        "kljucne_znacilnosti_problemi": [
+          "spor zaradi domnevne kršitve pogodbe o upravljanju digitalne platforme",
+          "vprašanje odgovornosti za izgubo podatkov in transakcij",
+          "analiza pogodbenih določil o elektronskem poslovanju",
+          "odškodninski zahtevek zaradi izpada digitalnih storitev"
+        ]
+      },
+      {
+        "case": "Regulatorni spor med TeleNet d.d. in Agencijo za komunikacijska omrežja",
+        "podrocje_prava": [
+          "elektronske komunikacije",
+          "upravno pravo",
+          "reševanje sporov"
+        ],
+        "zastopana_stranka": "TeleNet d.d.",
+        "kljucne_znacilnosti_problemi": [
+          "spor glede regulatornih obveznosti operaterja elektronskih komunikacij",
+          "presoja zakonitosti odločbe regulatorja",
+          "vprašanje dostopa do telekomunikacijske infrastrukture",
+          "upravni spor pred pristojnim sodiščem"
+        ]
+      },
+      {
+        "case": "Spor zaradi uporabe algoritmov umetne inteligence med AI Solutions d.o.o. in SmartAnalytics Ltd.",
+        "podrocje_prava": [
+          "IT pravo",
+          "umetna inteligenca",
+          "gospodarsko pravo"
+        ],
+        "zastopana_stranka": "AI Solutions d.o.o.",
+        "kljucne_znacilnosti_problemi": [
+          "spor glede pravic uporabe algoritmov umetne inteligence",
+          "vprašanje varstva poslovnih skrivnosti in podatkov",
+          "analiza pogodbenih določil glede uporabe masovnih podatkov",
+          "zahtevek za prenehanje uporabe sporne tehnologije"
+        ]
+      },
+      {
+        "case": "Spor zaradi kršitve pravil elektronskega oglaševanja med AdTech Network d.o.o. in MediaConnect d.d.",
+        "podrocje_prava": [
+          "elektronsko poslovanje",
+          "varstvo osebnih podatkov",
+          "gospodarsko pravo"
+        ],
+        "zastopana_stranka": "AdTech Network d.o.o.",
+        "kljucne_znacilnosti_problemi": [
+          "spor zaradi domnevne nezakonite uporabe piškotkov in profiliranja uporabnikov",
+          "vprašanje skladnosti digitalnega oglaševanja z GDPR in ePrivacy pravili",
+          "odškodninski zahtevek zaradi poslovne škode",
+          "analiza regulatornih zahtev za digitalne oglaševalske platforme"
+        ]
+      }
+    ]
   },
   {
-    "id": "L005",
-    "name": "Dr. Vesna Kovačič",
-    "title": "Managing Partner",
-    "specializations": ["M&A", "corporate", "technology_contracts"],
-    "experience_description": "20 years in M&A transactions and cross-border acquisitions, led due diligence on 30+ tech company acquisitions across CEE",
-    "languages": ["sl", "en", "de"],
-    "current_workload": "high",
-    "capacity_status": "RED",
-    "email": "vesna.kovacic@jadek-pensa.si"
+    "short_name": "OŽME",
+    "name": "Ožbej Merc",
+    "work": "Ožbej Merc je starejši partner in vodja enote transakcij v Odvetniški pisarni Jadek & Pensa. Specializiran je za prevzeme in združitve, insolvenčno pravo in prestrukturiranja ter finančno pravo. Ožbej je sodeloval pri večini prestrukturiranj velikih sistemov v Sloveniji in svetuje pri najzahtevnejših M&A transakcijah ter vprašanjih, ki so povezana s prevzemi in združitvami (Zakon o prevzemih, Zakon o trgu finančnih instrumentov, Zakon o finančnih zavarovanjih, ZFPPIPP, Zakon o bančništvu, Zakon o zavarovalništvu). Diplomiral je na ljubljanski pravni fakulteti leta 2003, nato pa leta 2005 na univerzi Columbia v New Yorku pridobil naziv LL.M. Od leta 2009 je odvetnik v pisarni Jadek & Pensa.",
+    "cases": [
+      {
+        "case": "Prestrukturiranje finančno prezadolžene skupine Adriatic Steel Group d.d.",
+        "podrocje_prava": [
+          "insolvenčno pravo",
+          "prestrukturiranje podjetij",
+          "finančno pravo"
+        ],
+        "zastopana_stranka": "Adriatic Steel Group d.d.",
+        "kljucne_znacilnosti_problemi": [
+          "finančno prestrukturiranje velike industrijske skupine",
+          "pogajanja z več bankami in imetniki obveznic",
+          "priprava načrta finančnega prestrukturiranja po ZFPPIPP",
+          "uskladitev interesov upnikov, lastnikov in managementa"
+        ]
+      },
+      {
+        "case": "Prevzem logistične družbe BalkanLogistics d.d. s strani GlobalTransport Holdings GmbH",
+        "podrocje_prava": [
+          "M&A",
+          "finančno pravo",
+          "prevzemno pravo"
+        ],
+        "zastopana_stranka": "GlobalTransport Holdings GmbH",
+        "kljucne_znacilnosti_problemi": [
+          "nakup večinskega deleža v slovenski logistični družbi",
+          "pravna analiza obveznosti po Zakonu o prevzemih",
+          "strukturiranje financiranja prevzema",
+          "priprava kupoprodajne pogodbe in prevzemne ponudbe"
+        ]
+      },
+      {
+        "case": "Prestrukturiranje bančnega dolga skupine GreenEnergy Systems d.d.",
+        "podrocje_prava": [
+          "finančno pravo",
+          "insolvenčno pravo",
+          "prestrukturiranje podjetij"
+        ],
+        "zastopana_stranka": "GreenEnergy Systems d.d.",
+        "kljucne_znacilnosti_problemi": [
+          "reprogramiranje dolga do več kreditodajalcev",
+          "priprava sporazuma o finančnem prestrukturiranju",
+          "analiza zavarovanj po Zakonu o finančnih zavarovanjih",
+          "strukturiranje nove kapitalske strukture podjetja"
+        ]
+      },
+      {
+        "case": "Združitev tehnoloških družb DataVision d.o.o. in CloudNet d.d.",
+        "podrocje_prava": [
+          "M&A",
+          "korporacijsko pravo",
+          "finančno pravo"
+        ],
+        "zastopana_stranka": "DataVision d.o.o.",
+        "kljucne_znacilnosti_problemi": [
+          "statusna združitev dveh tehnoloških podjetij",
+          "priprava načrta združitve in uskladitev interesov družbenikov",
+          "analiza regulatornih zahtev na trgu finančnih instrumentov",
+          "strukturiranje nove lastniške strukture po združitvi"
+        ]
+      },
+      {
+        "case": "Financiranje infrastrukturnega projekta SolarGrid d.d. s sindiciranim kreditom",
+        "podrocje_prava": [
+          "finančno pravo",
+          "projektno financiranje",
+          "bančno pravo"
+        ],
+        "zastopana_stranka": "SolarGrid d.d.",
+        "kljucne_znacilnosti_problemi": [
+          "financiranje projekta izgradnje energetskega omrežja",
+          "strukturiranje sindiciranega kredita z več bankami",
+          "vzpostavitev finančnih zavarovanj za kreditodajalce",
+          "analiza skladnosti financiranja z zakonodajo o bančništvu"
+        ]
+      }
+    ]
   },
   {
-    "id": "L006",
-    "name": "Gašper Lah",
-    "title": "Senior Associate",
-    "specializations": ["M&A", "corporate", "IP"],
-    "experience_description": "10 years in tech M&A due diligence, specializing in IP ownership verification and employee agreement reviews for acquisitions",
-    "languages": ["sl", "en"],
-    "current_workload": "low",
-    "capacity_status": "GREEN",
-    "email": "gasper.lah@jadek-pensa.si"
+    "short_name": "SAJE",
+    "name": "Aleksandra Merc",
+    "work": "Aleksandra Jemc Merc je starejša partnerka in ena od poslovodnih partnerjev v Odvetniški pisarni Jadek & Pensa. Njena glavna področja dela vključujejo korporacijsko pravo (izkušnje ima tudi s področja poslov nakupov in prodaj deležev v gospodarskih družbah), komercialne pogodbe, pravo intelektualne lastnine (predvsem patentne spore) ter regulacijo s področja farmacevtske dejavnosti.",
+    "cases": [
+      {
+        "case": "Uveljavitev pravic imetnikov podrejenih obveznic slovenskih bank po sanaciji 2013",
+        "podrocje_prava": [
+          "bančno pravo",
+          "ustavno pravo",
+          "finančno pravo"
+        ],
+        "kljucne_znacilnosti_problemi": [
+          "spor zaradi izbrisa podrejenih obveznic in delnic v postopkih sanacije slovenskih bank leta 2013",
+          "imetniki obveznic so uveljavljali odškodninske zahtevke proti državi in regulatorjem",
+          "kompleksni postopki pred slovenskimi sodišči in ustavnim sodiščem",
+          "vprašanja skladnosti izrednih ukrepov Banke Slovenije z ustavo in pravom EU",
+          "eden največjih finančno-pravnih sporov v Sloveniji"
+        ]
+      }
+    ]
   },
   {
-    "id": "L007",
-    "name": "Nataša Božič",
-    "title": "Partner",
-    "specializations": ["employment", "dispute_resolution"],
-    "experience_description": "14 years in employment law and labor disputes, extensive experience with ZDR-1, wrongful dismissal cases, and labor court proceedings",
-    "languages": ["sl", "en"],
-    "current_workload": "medium",
-    "capacity_status": "AMBER",
-    "email": "natasa.bozic@jadek-pensa.si"
+    "short_name": "GRKO",
+    "name": "Gregor Kovačič",
+    "work": "Gregor Kovačič je starejši odvetnik in mediator. Je član enote za reševanje sporov in ima izkušnje z zastopanjem strank tudi v najzahtevnejših gospodarskih sporih. Deluje na področju obligacijskega, korporacijskega, stvarnega, civilnega, delovnega in potrošniškega prava. V pisarni je specializiran za področje gradbenega prava, javnih naročil in delovnega prava. Gregor na področju gradbenega prava svetuje tako naročnikom kot tudi izvajalcem, in sicer od faze priprave gradbene pogodbe do faze izvajanja gradbenih projektov, vključno z zastopanjem strank v gradbenih sporih. Ima tudi izkušnje z izvajanjem gradbenih projektov po pogodbah FIDIC.",
+    "cases": [
+      {
+        "case": "",
+        "podrocje_prava": [],
+        "kljucne_znacilnosti_problemi": []
+      },
+      {
+        "case": "",
+        "podrocje_prava": [],
+        "kljucne_znacilnosti_problemi": []
+      },
+      {
+        "case": "",
+        "podrocje_prava": [],
+        "kljucne_znacilnosti_problemi": []
+      }
+    ]
   },
   {
-    "id": "L008",
-    "name": "Boštjan Mrak",
-    "title": "Associate",
-    "specializations": ["employment", "corporate"],
-    "experience_description": "6 years in employment law, experience with Slovenian labor regulations, non-compete agreements, and restructuring matters",
-    "languages": ["sl", "en", "hr"],
-    "current_workload": "low",
-    "capacity_status": "GREEN",
-    "email": "bostjan.mrak@jadek-pensa.si"
+    "short_name": "PAPE",
+    "name": "Pavle Pensa",
+    "work": "Pavle Pensa je starejši in ustanovni partner, čigar glavna področja dela vključujejo svetovanje in vodenje pogajanj o zahtevnih M&A transakcijah, prestrukturiranjih in skupnih vlaganjih ter svetovanje in zastopanje strank v konkurenčnopravnih zadevah ter zadevah državne pomoči. V svoji dolgoletni odvetniški karieri je zastopal številne domače in tuje stranke v kompleksnih sporih pred sodišči ter domačimi in mednarodnimi arbitražami. Mednarodni pravni direktoriji ga uvrščajo med vodilne slovenske odvetnike.",
+    "cases": [
+      {
+        "case": "Leki / Krka – spor glede patenta za zdravilo",
+        "podrocje_prava": [
+          "pravo intelektualne lastnine",
+          "patentno pravo",
+          "gospodarsko pravo"
+        ],
+        "kljucne_znacilnosti_problemi": [
+          "spor med farmacevtskima družbama glede veljavnosti in kršitve patenta",
+          "kompleksna vprašanja patentne zaščite zdravil in generičnih zdravil",
+          "postopki pred slovenskimi sodišči in mednarodnimi patentnimi organi",
+          "velik gospodarski pomen zaradi vrednosti farmacevtskega trga"
+        ]
+      },
+      {
+        "case": "Mobitel / Si.mobil – spor zaradi zlorabe prevladujočega položaja",
+        "podrocje_prava": [
+          "konkurenčno pravo",
+          "telekomunikacijsko pravo",
+          "regulacija trga"
+        ],
+        "kljucne_znacilnosti_problemi": [
+          "spor med telekomunikacijskimi operaterji glede konkurence na slovenskem trgu",
+          "vprašanja zlorabe prevladujočega položaja in regulacije cen",
+          "postopki pred Agencijo za varstvo konkurence in sodišči",
+          "vpliv na razvoj trga mobilnih komunikacij v Sloveniji"
+        ]
+      },
+      {
+        "case": "Regulatorni in konkurenčni postopki povezani z družbo Mercator",
+        "podrocje_prava": [
+          "konkurenčno pravo",
+          "gospodarsko pravo",
+          "regulacija trga"
+        ],
+        "kljucne_znacilnosti_problemi": [
+          "postopki povezani z največjim slovenskim trgovcem Mercator",
+          "vprašanja tržne moči in konkurence na maloprodajnem trgu",
+          "postopki pred Agencijo za varstvo konkurence",
+          "velik vpliv na strukturo slovenskega trgovskega trga"
+        ]
+      }
+    ]
   },
   {
-    "id": "L009",
-    "name": "Irena Petrič",
-    "title": "Partner",
-    "specializations": ["corporate", "AML", "regulatory"],
-    "experience_description": "18 years in corporate law and AML compliance, firm's AML compliance officer, deep expertise in ZPPDFT-2 and EU AML Directives",
-    "languages": ["sl", "en", "de", "it"],
-    "current_workload": "medium",
-    "capacity_status": "AMBER",
-    "email": "irena.petric@jadek-pensa.si"
+    "short_name": "NIBA",
+    "name": "Nina Bakovnik",
+    "work": "se osredotoča na delovno pravo. specializirala za evropsko in mednarodno delovno pravo, protidiskriminacijsko pravo in mednarodno zasebno pravo. Pred tem je v Sloveniji delala kot pravna svetovalka na področju delovnih razmerij, diskriminacije in delavskega soupravljanja. Svetuje domačim in tujim strankam glede individualnih in kolektivnih delovnih razmerij ter jih zastopa v okoljskopravnih zadevah in upravnih postopkih.",
+    "cases": [
+      {
+        "case": "Spor zaradi domnevne diskriminacije pri napredovanju med EuroManufacturing d.d. in zaposleno K. S.",
+        "podrocje_prava": [
+          "delovno pravo",
+          "protidiskriminacijsko pravo",
+          "evropsko delovno pravo"
+        ],
+        "zastopana_stranka": "EuroManufacturing d.d.",
+        "kljucne_znacilnosti_problemi": [
+          "spor zaradi domnevne diskriminacije na podlagi spola pri napredovanju",
+          "presoja skladnosti kadrovskih postopkov z evropsko zakonodajo o enakem obravnavanju",
+          "analiza dokaznega bremena v diskriminacijskih sporih",
+          "postopek pred delovnim in socialnim sodiščem"
+        ]
+      },
+      {
+        "case": "Kolektivni delovni spor med LogisticsGroup d.o.o. in sindikatom zaposlenih",
+        "podrocje_prava": [
+          "delovno pravo",
+          "kolektivno delovno pravo",
+          "mednarodno delovno pravo"
+        ],
+        "zastopana_stranka": "LogisticsGroup d.o.o.",
+        "kljucne_znacilnosti_problemi": [
+          "spor glede spremembe kolektivne pogodbe in delovnega časa",
+          "pogajanja med delodajalcem in sindikatom zaposlenih",
+          "analiza skladnosti kolektivne pogodbe z evropskimi delovnopravnimi standardi",
+          "postopek pred pristojnimi delovnimi organi"
+        ]
+      },
+      {
+        "case": "Upravni postopek glede zaposlovanja tujih strokovnjakov za TechGlobal d.o.o.",
+        "podrocje_prava": [
+          "delovno pravo",
+          "mednarodno zasebno pravo",
+          "upravno pravo"
+        ],
+        "zastopana_stranka": "TechGlobal d.o.o.",
+        "kljucne_znacilnosti_problemi": [
+          "postopek pridobivanja dovoljenj za delo za tuje strokovnjake",
+          "analiza skladnosti zaposlitve s slovensko in evropsko zakonodajo",
+          "zastopanje podjetja v postopku pred upravnimi organi",
+          "urejanje čezmejnih delovnih razmerij"
+        ]
+      },
+      {
+        "case": "Spor glede delavskega soupravljanja v podjetju IndustrySolutions d.d.",
+        "podrocje_prava": [
+          "delovno pravo",
+          "korporacijsko pravo",
+          "delavsko soupravljanje"
+        ],
+        "zastopana_stranka": "IndustrySolutions d.d.",
+        "kljucne_znacilnosti_problemi": [
+          "spor glede pristojnosti sveta delavcev pri sprejemanju kadrovskih odločitev",
+          "presoja pravic zaposlenih do sodelovanja pri upravljanju družbe",
+          "analiza skladnosti internih pravil podjetja z zakonodajo",
+          "reševanje spora med vodstvom in predstavniki zaposlenih"
+        ]
+      },
+      {
+        "case": "Upravni spor zaradi okoljskih zahtev pri širitvi proizvodnje podjetja EcoMaterials d.o.o.",
+        "podrocje_prava": [
+          "okoljsko pravo",
+          "upravno pravo",
+          "gospodarsko pravo"
+        ],
+        "zastopana_stranka": "EcoMaterials d.o.o.",
+        "kljucne_znacilnosti_problemi": [
+          "spor glede okoljskih dovoljenj za širitev proizvodnega obrata",
+          "presoja skladnosti projekta z okoljskimi predpisi",
+          "zastopanje podjetja v upravnem postopku",
+          "analiza vpliva projekta na okolje in lokalno skupnost"
+        ]
+      }
+    ]
   },
   {
-    "id": "L010",
-    "name": "Andrej Zorman",
-    "title": "Senior Associate",
-    "specializations": ["dispute_resolution", "corporate", "M&A"],
-    "experience_description": "9 years in commercial dispute resolution, arbitration, and litigation before Slovenian courts and ICC",
-    "languages": ["sl", "en"],
-    "current_workload": "low",
-    "capacity_status": "GREEN",
-    "email": "andrej.zorman@jadek-pensa.si"
+    "short_name": "NAME",
+    "name": "Nastja Merlak",
+    "work": "Nastja Merlak je partnerka v Odvetniški pisarni Jadek & Pensa in članica enote transakcij. Je specializirana za korporacijsko pravo, prevzeme in združitve ter insolvenčno pravo in prestrukturiranja, prav tako pa ima bogate izkušnje s področja bančništva in financ. Z dolgoletnimi izkušnjami strankam omogoča uspešno izpeljavo kompleksnih transakcij, vključno s čezmejnimi M&A transakcijami ter statusnopravnimi preoblikovanji podjetij, zlasti delitvami in izčlenitvami. Nastjina izobrazba vključuje magistrski študij na univerzi London School of Economics and Political Science, kjer je pridobila poglobljeno znanje o korporativnih financah in finančni regulaciji.",
+    "cases": [
+      {
+        "case": "Čezmejni prevzem proizvodnega podjetja s strani investicijskega sklada",
+        "podrocje_prava": [
+          "M&A",
+          "korporacijsko pravo",
+          "bančništvo in finance"
+        ],
+        "kljucne_znacilnosti_problemi": [
+          "nakup večinskega deleža v slovenski proizvodni družbi s strani tujega investicijskega sklada",
+          "skrbni pravni pregled korporativnih, pogodbenih in finančnih tveganj",
+          "strukturiranje financiranja prevzema z bančnim sindiciranim kreditom",
+          "priprava in pogajanje kupoprodajne pogodbe za deleže (SPA)"
+        ]
+      },
+      {
+        "case": "Prestrukturiranje zadolžene logistične družbe",
+        "podrocje_prava": [
+          "insolvenčno pravo",
+          "prestrukturiranje podjetij",
+          "bančništvo in finance"
+        ],
+        "kljucne_znacilnosti_problemi": [
+          "finančno prestrukturiranje podjetja z visokim dolgom do bank",
+          "pogajanja z več kreditodajalci glede spremembe pogojev financiranja",
+          "priprava sporazuma o reprogramiranju dolga",
+          "pretvorba dela dolga v lastniški kapital"
+        ]
+      },
+      {
+        "case": "Združitev dveh družb v tehnološkem sektorju",
+        "podrocje_prava": [
+          "korporacijsko pravo",
+          "M&A"
+        ],
+        "kljucne_znacilnosti_problemi": [
+          "statusna združitev dveh družb z omejeno odgovornostjo",
+          "prenos sredstev in obveznosti na prevzemno družbo",
+          "usklajevanje pravic obstoječih družbenikov",
+          "priprava načrta združitve in spremembe statuta"
+        ]
+      },
+      {
+        "case": "Financiranje infrastrukturnega projekta s sindiciranim kreditom",
+        "podrocje_prava": [
+          "bančništvo in finance",
+          "projektno financiranje"
+        ],
+        "kljucne_znacilnosti_problemi": [
+          "financiranje infrastrukturnega projekta z več bankami",
+          "priprava kreditne dokumentacije",
+          "vzpostavitev zavarovanj nad sredstvi projektne družbe",
+          "usklajevanje interesov različnih kreditodajalcev"
+        ]
+      },
+      {
+        "case": "Delitev družbe z izčlenitvijo poslovne enote",
+        "podrocje_prava": [
+          "korporacijsko pravo",
+          "prestrukturiranje podjetij"
+        ],
+        "kljucne_znacilnosti_problemi": [
+          "izčlenitev poslovne enote v novo ustanovljeno družbo",
+          "prenos zaposlenih, pogodb in sredstev",
+          "davčni in regulatorni vidiki statusne delitve",
+          "sprememba lastniške strukture po delitvi"
+        ]
+      }
+    ]
+  },
+  {
+    "short_name": "VEKN",
+    "name": "Veronika Bratož",
+    "work": "Veronika Bratož je odvetnica in višja davčna svetovalka, ki se je pisarni pridružila leta 2018. Pred tem je delovala v eni izmed družb t. i. »Big 4«. S celovitim razumevanjem davčne zakonodaje stranke redno in uspešno zastopa v davčnih sporih, tako pred davčnim organom kot pred sodišči.S svojimi izkušnjami strankam pomaga v postopkih nadzora, kjer sodeluje pri oceni davčnega položaja, zbiranju ter ustrezni pripravi dokumentacije. V postopkih skrbi za ustrezno zastopanje in varovanje pravic davčnih zavezancev. Specializirana je za davek na dodano vrednost ter obdavčitev virtualnih valut. Izkušnje deli na predavanjih in delavnicah, kjer obravnava davčne izzive, ki jih prinašajo nove tehnologije.",
+    "cases": [
+      {
+        "case": "Davčni spor zaradi transfernih cen med povezanimi družbami",
+        "podrocje_prava": [
+          "davčno pravo",
+          "mednarodno davčno pravo"
+        ],
+        "kljucne_znacilnosti_problemi": [
+          "postopek davčnega nadzora zaradi domnevno nepravilno določenih transfernih cen",
+          "presoja skladnosti cen med povezanimi družbami z OECD smernicami",
+          "dodatna odmera davka na dobiček pravnih oseb",
+          "upravno-pravni spor z davčnim organom glede metodologije določanja cen"
+        ]
+      },
+      {
+        "case": "Davčna obravnava čezmejnega financiranja podjetniške skupine",
+        "podrocje_prava": [
+          "davčno pravo",
+          "bančno in finančno pravo"
+        ],
+        "kljucne_znacilnosti_problemi": [
+          "vprašanje davčne priznanosti obresti pri posojilih znotraj skupine",
+          "presoja pravil tankega kapitaliziranja",
+          "analiza skladnosti financiranja s pravili o preprečevanju davčnih zlorab",
+          "postopek davčnega nadzora in morebitna dodatna davčna obveznost"
+        ]
+      },
+      {
+        "case": "Davčni spor zaradi odbitka DDV pri kompleksni dobavni verigi",
+        "podrocje_prava": [
+          "davčno pravo",
+          "DDV"
+        ],
+        "kljucne_znacilnosti_problemi": [
+          "spor glede pravice do odbitka vstopnega DDV",
+          "presoja verodostojnosti transakcij v dobavni verigi",
+          "vprašanje sodelovanja v domnevni davčni goljufiji",
+          "postopek pred davčnim organom in upravnim sodiščem"
+        ]
+      },
+      {
+        "case": "Davčna obravnava statusnega preoblikovanja podjetja",
+        "podrocje_prava": [
+          "davčno pravo",
+          "korporacijsko pravo"
+        ],
+        "kljucne_znacilnosti_problemi": [
+          "davčne posledice združitve ali delitve družbe",
+          "vprašanje davčne nevtralnosti statusne spremembe",
+          "presoja prenosa sredstev in obveznosti na novo družbo",
+          "uskladitev transakcije z evropsko direktivo o združitvah"
+        ]
+      },
+      {
+        "case": "Postopek zaradi domnevne davčne zlorabe pri nepremičninski transakciji",
+        "podrocje_prava": [
+          "davčno pravo",
+          "nepremičninsko pravo"
+        ],
+        "kljucne_znacilnosti_problemi": [
+          "spor glede pravilne obdavčitve prodaje nepremičnine",
+          "vprašanje uporabe DDV ali davka na promet nepremičnin",
+          "analiza gospodarske vsebine transakcije",
+          "postopek davčnega nadzora in upravni spor"
+        ]
+      }
+    ]
+  },
+  {
+    "short_name": "JULE",
+    "name": "Jure Levovnik",
+    "work": "Jure Levovnik je starejši partner in eden od poslovodnih partnerjev. V tujih pravnih direktorijih je prepoznan kot vodilni strokovnjak v Sloveniji na področju reševanja sporov. Ima bogate izkušnje z zastopanjem domačih in tujih strank v zahtevnih gospodarskih sporih in mednarodnih arbitražah. Specializira se tudi na področjih energetike, elektronskih komunikacij in informacijskih tehnologij, intelektualne lastnine (pravice na podatkovnih bazah, avtorske pravice in nelojalna konkurenca) in športnega prava. Od leta 2019 je član upravnega odbora uglednega mednarodnega združenja Association of European Energy and Climate Lawyers (AEEC) s sedežem v Berlinu.",
+    "cases": [
+      {
+        "case": "Energetski spor med EnergoDistribucija d.o.o. in Mestna občina Ljubljana",
+        "podrocje_prava": [
+          "energetsko pravo",
+          "gospodarsko pravo",
+          "reševanje sporov"
+        ],
+        "zastopana_stranka": "EnergoDistribucija d.o.o.",
+        "kljucne_znacilnosti_problemi": [
+          "spor glede pogojev koncesije za distribucijo električne energije",
+          "vprašanje upravičenosti spremembe tarifnega sistema",
+          "odškodninski zahtevek zaradi domnevne kršitve koncesijske pogodbe",
+          "gospodarski spor med energetskim podjetjem in lokalno skupnostjo"
+        ]
+      },
+      {
+        "case": "Arbitraža med TeleNet Europe GmbH in Adriatic Telecom d.d.",
+        "podrocje_prava": [
+          "arbitraža",
+          "elektronske komunikacije",
+          "gospodarsko pravo"
+        ],
+        "zastopana_stranka": "Adriatic Telecom d.d.",
+        "kljucne_znacilnosti_problemi": [
+          "spor glede pogojev dostopa do telekomunikacijske infrastrukture",
+          "uporaba arbitražne klavzule v mednarodni pogodbi",
+          "presoja diskriminatornih pogojev dostopa do omrežja",
+          "odločanje arbitražnega tribunala o pogodbeni odgovornosti"
+        ]
+      },
+      {
+        "case": "Spor zaradi kršitve pravic na podatkovni bazi med DataSphere d.o.o. in InfoMatrix d.o.o.",
+        "podrocje_prava": [
+          "intelektualna lastnina",
+          "avtorsko pravo",
+          "IT pravo"
+        ],
+        "zastopana_stranka": "DataSphere d.o.o.",
+        "kljucne_znacilnosti_problemi": [
+          "domnevna nepooblaščena uporaba podatkovne baze s strani konkurenta",
+          "vprašanje zaščite podatkovnih baz kot avtorskega dela",
+          "zahteva za prenehanje kršitve in odškodnino",
+          "analiza nelojalne konkurence na digitalnem trgu"
+        ]
+      },
+      {
+        "case": "Gospodarski spor med SoftCore Systems d.o.o. in Balkan Software Distribution d.d.",
+        "podrocje_prava": [
+          "gospodarsko pravo",
+          "IT pravo",
+          "reševanje sporov"
+        ],
+        "zastopana_stranka": "SoftCore Systems d.o.o.",
+        "kljucne_znacilnosti_problemi": [
+          "spor glede kršitve distribucijske pogodbe za programsko opremo",
+          "vprašanje licenčnih pravic in uporabe programske kode",
+          "odškodninski zahtevek zaradi izgube prihodkov",
+          "presoja veljavnosti pogodbenih omejitev odgovornosti"
+        ]
+      },
+      {
+        "case": "Športna arbitraža med FC Ljubljana in Slovensko nogometno zvezo",
+        "podrocje_prava": [
+          "športno pravo",
+          "arbitraža",
+          "gospodarsko pravo"
+        ],
+        "zastopana_stranka": "FC Ljubljana",
+        "kljucne_znacilnosti_problemi": [
+          "spor glede disciplinske sankcije proti nogometnemu klubu",
+          "vprašanje skladnosti sankcije s pravili športne zveze",
+          "pritožbeni postopek pred športno arbitražo",
+          "presoja vpliva sankcije na pravice kluba do tekmovanja"
+        ]
+      }
+    ]
+  },
+  {
+    "short_name": "NESE",
+    "name": "Nejc Setnikar",
+    "work": "Svetuje širokemu krogu strank, od multinacionalnih podjetij do inovativnih startupov na področjih pogodbenega prava, varstva podatkov in prava intelektualne lastnine. Njegovo delo vključuje zastopanje domačih in mednarodnih strank v kompleksnih sporih ter izvajanje strateških pravnih analiz glede regulatorne skladnosti, korporativnih ter davčnih vidikov poslovanja. Aktiven je tudi na področjih novih tehnologij (podaja vpoglede v pravne okvire umetne inteligence, robotike, digitalnih trgov).",
+    "cases": [
+      {
+        "case": "Spor zaradi kršitve licenčne pogodbe za programsko opremo med AI Labs d.o.o. in Nordic Robotics AB",
+        "podrocje_prava": [
+          "pogodbeno pravo",
+          "IT pravo",
+          "intelektualna lastnina"
+        ],
+        "zastopana_stranka": "AI Labs d.o.o.",
+        "kljucne_znacilnosti_problemi": [
+          "spor glede kršitve licenčne pogodbe za uporabo algoritmov umetne inteligence",
+          "vprašanje prenosa pravic intelektualne lastnine na izvorni kodi",
+          "zahtevek za odškodnino zaradi nepooblaščene komercialne uporabe programske opreme",
+          "analiza pogodbenih omejitev odgovornosti v tehnoloških pogodbah"
+        ]
+      },
+      {
+        "case": "GDPR spor med DataVision d.o.o. in European AdTech Group Ltd.",
+        "podrocje_prava": [
+          "varstvo podatkov",
+          "regulatorna skladnost",
+          "IT pravo"
+        ],
+        "zastopana_stranka": "DataVision d.o.o.",
+        "kljucne_znacilnosti_problemi": [
+          "spor glede zakonitosti obdelave osebnih podatkov v oglaševalski platformi",
+          "vprašanje veljavnosti privolitve uporabnikov za profiliranje",
+          "preiskava regulatorja glede čezmejnega prenosa podatkov",
+          "zahteva za prilagoditev poslovnega modela zaradi skladnosti z GDPR"
+        ]
+      },
+      {
+        "case": "Spor zaradi kršitve pravic na podatkovni bazi med FinData Analytics d.o.o. in MarketInsight GmbH",
+        "podrocje_prava": [
+          "intelektualna lastnina",
+          "avtorsko pravo",
+          "IT pravo"
+        ],
+        "zastopana_stranka": "FinData Analytics d.o.o.",
+        "kljucne_znacilnosti_problemi": [
+          "domnevna nepooblaščena uporaba finančne podatkovne baze",
+          "vprašanje zaščite podatkovne baze kot sui generis pravice",
+          "zahteva za prenehanje kršitve in odškodnino",
+          "analiza nelojalne konkurence na digitalnem trgu"
+        ]
+      },
+      {
+        "case": "Regulatorna analiza umetne inteligence za startup RoboCore d.o.o.",
+        "podrocje_prava": [
+          "IT pravo",
+          "regulatorna skladnost",
+          "pravo novih tehnologij"
+        ],
+        "zastopana_stranka": "RoboCore d.o.o.",
+        "kljucne_znacilnosti_problemi": [
+          "pravna analiza skladnosti sistema umetne inteligence z evropskim AI Act",
+          "vprašanja odgovornosti za odločitve algoritmov",
+          "vzpostavitev sistema upravljanja tveganj pri uporabi umetne inteligence",
+          "analiza regulatornih zahtev za vstop na trg EU"
+        ]
+      },
+      {
+        "case": "Spor zaradi nelojalne konkurence med CloudMatrix d.o.o. in DigitalSphere Ltd.",
+        "podrocje_prava": [
+          "gospodarsko pravo",
+          "intelektualna lastnina",
+          "nelojalna konkurenca"
+        ],
+        "zastopana_stranka": "CloudMatrix d.o.o.",
+        "kljucne_znacilnosti_problemi": [
+          "spor zaradi domnevnega kopiranja poslovnega modela digitalne platforme",
+          "vprašanje zlorabe poslovnih skrivnosti",
+          "zahteva za prepoved uporabe spornih tehnologij",
+          "odškodninski zahtevek zaradi izgube tržnega deleža"
+        ]
+      }
+    ]
+  },
+  {
+    "short_name": "JAZA",
+    "name": "Janja Zaplotnik",
+    "work": "Janja Zaplotnik je partnerica in vodja svetovalne enote odvetniške pisarne. Janja je specializirana za konkurenčno pravo in državno pomoč – tako z vidika zagotavljanja skladnosti kot zastopanja v postopkih pred organi za varstvo konkurence in sodišči ter z vidika konkurenčnopravnih vprašanj pri združitvah in prevzemih podjetij. Ima tudi znanje na področju gospodarskih pogodb in potrošniškega prava ter izkušnje z vodenjem kompleksnih svetovalnih projektov z več delovnimi sklopi.",
+    "cases": [
+      {
+        "case": "Postopek zaradi domnevnega kartelnega dogovora med GradBuild d.o.o. in InfraBeton d.d.",
+        "podrocje_prava": [
+          "konkurenčno pravo",
+          "antitrust",
+          "reševanje sporov"
+        ],
+        "zastopana_stranka": "GradBuild d.o.o.",
+        "kljucne_znacilnosti_problemi": [
+          "preiskava Agencije za varstvo konkurence zaradi domnevnega usklajevanja cen pri javnih infrastrukturnih projektih",
+          "analiza komunikacije med dobavitelji gradbenega materiala",
+          "obramba podjetja v postopku ugotavljanja kartelnega dogovora",
+          "možnost izreka visoke globe ter civilnih odškodninskih zahtevkov"
+        ]
+      },
+      {
+        "case": "Postopek koncentracije pri prevzemu družbe RetailMarket d.o.o. s strani EuroCommerce Group GmbH",
+        "podrocje_prava": [
+          "konkurenčno pravo",
+          "M&A",
+          "kontrola koncentracij"
+        ],
+        "zastopana_stranka": "EuroCommerce Group GmbH",
+        "kljucne_znacilnosti_problemi": [
+          "priglasitev koncentracije Agenciji za varstvo konkurence",
+          "analiza tržnih deležev na maloprodajnem trgu",
+          "pogajanja o morebitnih korektivnih ukrepih za odobritev transakcije",
+          "usklajevanje postopka z evropskimi pravili o koncentracijah"
+        ]
+      },
+      {
+        "case": "Postopek državne pomoči za projekt obnovljivih virov energije GreenEnergy d.o.o.",
+        "podrocje_prava": [
+          "državna pomoč",
+          "konkurenčno pravo",
+          "energetsko pravo"
+        ],
+        "zastopana_stranka": "GreenEnergy d.o.o.",
+        "kljucne_znacilnosti_problemi": [
+          "presoja skladnosti državne subvencije z evropskimi pravili o državni pomoči",
+          "notifikacija projekta Evropski komisiji",
+          "analiza vpliva subvencije na konkurenco na energetskem trgu",
+          "strukturiranje pomoči v skladu z evropskimi smernicami"
+        ]
+      },
+      {
+        "case": "Spor zaradi domnevno nepoštenih poslovnih praks med ShopLine d.o.o. in ConsumerProtect Slovenia",
+        "podrocje_prava": [
+          "potrošniško pravo",
+          "gospodarsko pravo"
+        ],
+        "zastopana_stranka": "ShopLine d.o.o.",
+        "kljucne_znacilnosti_problemi": [
+          "spor glede domnevno zavajajočih oglaševalskih praks v spletni trgovini",
+          "preiskava potrošniškega regulatorja",
+          "vprašanje skladnosti oglaševanja z zakonodajo o varstvu potrošnikov",
+          "zahteva za spremembo poslovnih praks in odpravo spornih oglasov"
+        ]
+      },
+      {
+        "case": "Konkurenčnopravna presoja ekskluzivne distribucijske pogodbe med AgroSupply d.d. in BalkanTrade Ltd.",
+        "podrocje_prava": [
+          "konkurenčno pravo",
+          "gospodarske pogodbe"
+        ],
+        "zastopana_stranka": "AgroSupply d.d.",
+        "kljucne_znacilnosti_problemi": [
+          "analiza ekskluzivnih distribucijskih klavzul",
+          "presoja skladnosti pogodbe z evropskimi pravili o vertikalnih sporazumih",
+          "vprašanje omejevanja konkurence na regionalnem trgu",
+          "priprava priporočil za prilagoditev pogodbenih določil"
+        ]
+      }
+    ]
+  },
+  {
+    "short_name": "EVGO",
+    "name": "Eva Gostiša",
+    "work": "Eva Gostiša je partnerka v Odvetniški pisarni Jadek & Pensa. Njeno delo je osredotočeno zlasti na intelektualno lastnino; pri blagovnih znamkah in modelih pokriva tako področje zaščite kot tudi uveljavljanja pravic, pri patentih pa uveljavljanje pravic v sodnih postopkih. Bogate izkušnje si je pridobila tudi na področju izumov iz delovnega razmerja, avtorskega prava in nelojalne konkurence, v zvezi s čimer svetuje strankam in jih zastopa v sporih. Eva pokriva tudi regulativo na področju zdravil in zdravstvene dejavnosti, v zadnjih letih pa se posveča tudi nepremičninskim transakcijam.",
+    "cases": [
+      {
+        "case": "Spor zaradi kršitve blagovne znamke med PharmaNova d.o.o. in MedicaLife GmbH",
+        "podrocje_prava": [
+          "intelektualna lastnina",
+          "blagovne znamke",
+          "reševanje sporov"
+        ],
+        "zastopana_stranka": "PharmaNova d.o.o.",
+        "kljucne_znacilnosti_problemi": [
+          "spor glede domnevno zavajajoče podobne farmacevtske blagovne znamke",
+          "zahteva za prepoved uporabe znaka na slovenskem trgu",
+          "presoja verjetnosti zmede med potrošniki in strokovno javnostjo",
+          "uveljavljanje pravic iz registrirane blagovne znamke v sodnem postopku"
+        ]
+      },
+      {
+        "case": "Patentni spor med BioSynth d.d. in GenLab Europe SA",
+        "podrocje_prava": [
+          "patentno pravo",
+          "intelektualna lastnina",
+          "gospodarsko pravo"
+        ],
+        "zastopana_stranka": "BioSynth d.d.",
+        "kljucne_znacilnosti_problemi": [
+          "spor zaradi domnevne kršitve patenta za farmacevtsko formulacijo",
+          "zahteva za prepoved proizvodnje in prodaje spornega izdelka",
+          "presoja obsega patentnega varstva in tehničnih značilnosti izdelka",
+          "uveljavljanje pravic v sodnem postopku z izvedenskim dokazovanjem"
+        ]
+      },
+      {
+        "case": "Spor glede izuma iz delovnega razmerja med TechMinds d.o.o. in Innovatis d.d.",
+        "podrocje_prava": [
+          "intelektualna lastnina",
+          "izumi iz delovnega razmerja",
+          "delovno pravo"
+        ],
+        "zastopana_stranka": "Innovatis d.d.",
+        "kljucne_znacilnosti_problemi": [
+          "spor o pripadnosti pravic na tehničnem izumu, razvitem med zaposlitvijo",
+          "vprašanje obveznosti prijave izuma delodajalcu",
+          "presoja primernega nadomestila za izumitelja",
+          "usklajevanje interesov delodajalca in zaposlenega izumitelja"
+        ]
+      },
+      {
+        "case": "Avtorskopravni spor med StudioForma d.o.o. in UrbanMedia d.d.",
+        "podrocje_prava": [
+          "avtorsko pravo",
+          "intelektualna lastnina",
+          "nelojalna konkurenca"
+        ],
+        "zastopana_stranka": "StudioForma d.o.o.",
+        "kljucne_znacilnosti_problemi": [
+          "spor zaradi domnevnega nepooblaščenega prevzema kreativnih rešitev in vizualnih elementov",
+          "zahteva za prenehanje uporabe avtorskega dela in plačilo odškodnine",
+          "vprašanje obsega avtorske zaščite oblikovalskih del",
+          "presoja povezave med kršitvijo avtorskih pravic in nelojalno konkurenco"
+        ]
+      },
+      {
+        "case": "Regulatorni postopek in nepremičninska transakcija za HealthInvest d.o.o.",
+        "podrocje_prava": [
+          "regulativa zdravil in zdravstvene dejavnosti",
+          "nepremičninsko pravo",
+          "gospodarsko pravo"
+        ],
+        "zastopana_stranka": "HealthInvest d.o.o.",
+        "kljucne_znacilnosti_problemi": [
+          "pravna analiza nakupa poslovne nepremičnine za izvajanje zdravstvene dejavnosti",
+          "pregled regulatornih pogojev za opravljanje dejavnosti v novih prostorih",
+          "usklajevanje pogodbenih in dovoljenjskih vidikov transakcije",
+          "ocena tveganj povezanih z namembnostjo nepremičnine in zdravstveno regulativo"
+        ]
+      }
+    ]
+  },
+  {
+    "short_name": "BOLE",
+    "name": "Borut Leskovec",
+    "work": "Borut Leskovec je partner in član enote za reševanje sporov. Strankam svetuje in jih zastopa tudi v najzahtevnejših gospodarskih sporih ter deluje na področju obligacijskega, korporacijskega, stvarnega, civilnega in insolvenčnega prava. V pisarni je specializiran za področje javnih naročil, svetuje ter zastopa naročnike in ponudnike z različnih področij, med drugim je sodeloval pri velikih infrastrukturnih projektih. Ima večletne izkušnje s področja reševanja kompleksnih delničarskih in družbeniških razmerij ter pravne podpore pri upravljanju s premoženjem. Usmerjen je v konstruktivno reševanje sporov ter iskanje dolgoročno najboljših rešitev za stranko.",
+    "cases": [
+      {
+        "case": "Spor glede razveljavitve javnega naročila za gradnjo avtocestnega odseka med InfraConstruct d.d. in DARS d.d.",
+        "podrocje_prava": [
+          "javna naročila",
+          "gospodarsko pravo",
+          "reševanje sporov"
+        ],
+        "zastopana_stranka": "InfraConstruct d.d.",
+        "kljucne_znacilnosti_problemi": [
+          "izpodbijanje odločitve naročnika o oddaji javnega naročila za infrastrukturni projekt",
+          "postopek pred Državno revizijsko komisijo",
+          "presoja meril za izbor ponudnika in transparentnosti postopka",
+          "vprašanje zakonitosti izločitve ponudbe"
+        ]
+      },
+      {
+        "case": "Delničarski spor med CapitalInvest d.d. in družbo Adriatic Logistics d.d.",
+        "podrocje_prava": [
+          "korporacijsko pravo",
+          "gospodarsko pravo",
+          "reševanje sporov"
+        ],
+        "zastopana_stranka": "CapitalInvest d.d.",
+        "kljucne_znacilnosti_problemi": [
+          "spor med večinskim in manjšinskim delničarjem glede upravljanja družbe",
+          "izpodbijanje sklepov skupščine delničarjev",
+          "vprašanje zlorabe večinskega položaja",
+          "zahteva za sodno varstvo pravic delničarjev"
+        ]
+      },
+      {
+        "case": "Spor zaradi razveze pogodbe o upravljanju nepremičninskega portfelja med RealAsset Management d.o.o. in UrbanEstate d.d.",
+        "podrocje_prava": [
+          "obligacijsko pravo",
+          "stvarno pravo",
+          "gospodarsko pravo"
+        ],
+        "zastopana_stranka": "RealAsset Management d.o.o.",
+        "kljucne_znacilnosti_problemi": [
+          "spor zaradi domnevne kršitve pogodbenih obveznosti pri upravljanju nepremičnin",
+          "zahtevek za povrnitev škode zaradi nepravilnega upravljanja premoženja",
+          "presoja pogodbenih obveznosti upravljavca",
+          "analiza odgovornosti za finančno izgubo"
+        ]
+      },
+      {
+        "case": "Insolvenčni spor med CreditTrust Bank d.d. in podjetjem SteelPro d.o.o.",
+        "podrocje_prava": [
+          "insolvenčno pravo",
+          "gospodarsko pravo",
+          "reševanje sporov"
+        ],
+        "zastopana_stranka": "CreditTrust Bank d.d.",
+        "kljucne_znacilnosti_problemi": [
+          "spor glede izpodbijanja pravnih dejanj v stečajnem postopku",
+          "vprašanje prednostnega poplačila terjatev",
+          "presoja veljavnosti zavarovanj v insolvenčnem postopku",
+          "zahteva za razveljavitev spornih transakcij pred začetkom stečaja"
+        ]
+      },
+      {
+        "case": "Postopek revizije javnega naročila za železniško infrastrukturo med RailBuild Consortium d.o.o. in Slovenske železnice d.o.o.",
+        "podrocje_prava": [
+          "javna naročila",
+          "gospodarsko pravo",
+          "infrastrukturno pravo"
+        ],
+        "zastopana_stranka": "RailBuild Consortium d.o.o.",
+        "kljucne_znacilnosti_problemi": [
+          "spor glede pogojev razpisne dokumentacije za železniški projekt",
+          "vprašanje diskriminatornih tehničnih zahtev",
+          "postopek pravnega varstva v javnem naročanju",
+          "presoja skladnosti razpisa z zakonodajo o javnem naročanju"
+        ]
+      }
+    ]
+  },
+  {
+    "short_name": "ANOŠ",
+    "name": "Ana Oštir",
+    "work": "Ana Oštir je odvetnica, ki svetuje strankam na področju gospodarskega, delovnega in migracijskega prava. Njeno delo vključuje predvsem svetovanje domačim in tujim strankam v zvezi z urejanjem delovnih razmerij, sodeluje pa tudi pri zastopanju strank v sporih pred sodišči in drugimi državnimi organi. Podrobneje se ukvarja z vprašanji protidiskriminacijskega prava, človekovih pravic in trajnostnega poročanja, zaščite prijaviteljev ter zaposlovanja in dela tujcev.",
+    "cases": [
+      {
+        "case": "Delovni spor zaradi domnevne diskriminacije med GlobalTech d.o.o. in zaposleno N. K.",
+        "podrocje_prava": [
+          "delovno pravo",
+          "protidiskriminacijsko pravo",
+          "človekove pravice"
+        ],
+        "zastopana_stranka": "GlobalTech d.o.o.",
+        "kljucne_znacilnosti_problemi": [
+          "spor zaradi domnevne diskriminacije pri napredovanju na delovnem mestu",
+          "presoja skladnosti internih kadrovskih postopkov z zakonodajo o varstvu pred diskriminacijo",
+          "postopek pred delovnim sodiščem",
+          "analiza dokaznega bremena pri diskriminacijskih zahtevkih"
+        ]
+      },
+      {
+        "case": "Postopek glede zaposlovanja tujcev med BuildInfra d.d. in Ministrstvom za delo",
+        "podrocje_prava": [
+          "migracijsko pravo",
+          "delovno pravo"
+        ],
+        "zastopana_stranka": "BuildInfra d.d.",
+        "kljucne_znacilnosti_problemi": [
+          "spor glede izdaje dovoljenj za zaposlitev tujih delavcev",
+          "presoja izpolnjevanja pogojev za enotno dovoljenje za delo in prebivanje",
+          "upravni postopek pred pristojnimi državnimi organi",
+          "analiza skladnosti zaposlovanja tujcev z zakonodajo"
+        ]
+      },
+      {
+        "case": "Spor zaradi odpovedi pogodbe o zaposlitvi med RetailGroup d.o.o. in nekdanjim direktorjem oddelka",
+        "podrocje_prava": [
+          "delovno pravo",
+          "gospodarsko pravo"
+        ],
+        "zastopana_stranka": "RetailGroup d.o.o.",
+        "kljucne_znacilnosti_problemi": [
+          "spor glede zakonitosti redne odpovedi pogodbe o zaposlitvi",
+          "presoja obstoja poslovnega razloga za odpoved",
+          "zahtevek za reintegracijo ali odškodnino",
+          "postopek pred delovnim in socialnim sodiščem"
+        ]
+      },
+      {
+        "case": "Postopek zaščite prijavitelja nepravilnosti v podjetju EcoSolutions d.o.o.",
+        "podrocje_prava": [
+          "zaščita prijaviteljev",
+          "delovno pravo",
+          "gospodarsko pravo"
+        ],
+        "zastopana_stranka": "EcoSolutions d.o.o.",
+        "kljucne_znacilnosti_problemi": [
+          "obravnava prijave nepravilnosti v notranjem sistemu prijavljanja",
+          "vzpostavitev mehanizmov zaščite prijaviteljev v podjetju",
+          "analiza skladnosti z zakonodajo o zaščiti prijaviteljev",
+          "svetovanje glede notranjih postopkov in preiskave prijave"
+        ]
+      },
+      {
+        "case": "Regulatorna analiza trajnostnega poročanja za GreenIndustry Group d.d.",
+        "podrocje_prava": [
+          "trajnostno poročanje",
+          "gospodarsko pravo",
+          "regulatorna skladnost"
+        ],
+        "zastopana_stranka": "GreenIndustry Group d.d.",
+        "kljucne_znacilnosti_problemi": [
+          "analiza obveznosti podjetja glede poročanja o trajnostnosti",
+          "priprava pravnih smernic za skladnost z evropskimi ESG standardi",
+          "pregled notranjih politik podjetja glede trajnostnega upravljanja",
+          "svetovanje glede regulatornih zahtev za razkritje nefinančnih informacij"
+        ]
+      }
+    ]
   }
 ]
