@@ -117,6 +117,9 @@ ${JSON.stringify(matchedRef, null, 2)}
 HONORARJI (INTERNO — ne omenjaj v osnutku e-poste):
 ${JSON.stringify(feeMatrix, null, 2)}
 
+ZAKONSKI ROKI (uporabi pri generiranju časovnice — vključi ustrezne roke kot mejnike v timeline fazah):
+${JSON.stringify(feeMatrix.legal_deadlines, null, 2)}
+
 ANALIZA E-POSTE STRANKE:
 - Jezik: ${language}
 - Pravna podrocja: ${JSON.stringify(legalDomains)}
@@ -143,7 +146,7 @@ NAVODILA:
 - firmExperience: 1-2 opisi preteklih zadev pisarne, ki sta neposredno relevantni za to stranko
 - firmReference: prepiši iz podanega referenčnega objekta brez bistvenih sprememb
 - feeEstimate: samo interno — NIKOLI ne omenjaj honorarjev v draftEmail.body
-- timeline: 4-6 faz postopka z realisticno oceno trajanja (npr. "2-3 tedne"); jasno, brez pravniskega zargona, iz perspektive stranke
+- timeline: 4-6 faz postopka z realisticno oceno trajanja (npr. "2-3 tedne"); jasno, brez pravniskega zargona, iz perspektive stranke; kjer se ujema z zadevnim podrocjem, OBVEZNO vkljuci konkretne zakonske roke iz razdelka ZAKONSKI ROKI kot mejnike faz (npr. "Rok: 30 dni – ZDR-1, 200. člen") in jih nanizaj v opisFaze
 - opozorila: 3-5 zelo konkretnih opozoril — pravne pasti, ki bi jih laik zlahka zgresel, zamujeni roki, procesne napake; formuliraj kot "Ne smete..." ali "Pazite, da..."
 - draftEmail.body: PISI V ${writingLanguage}; ton izkusenega odvetnika (ne robot); omeni konkretne dosezke in sposobnosti predlagane ekipe iz izkusenj pisarne; vkljuci 2-3 kljucna vprasanja za stranko; zakljuci z nezno, a jasno spodbudo k angazmaju pisarne; "Vec je vec" — bodi ambiciozen in pohvalen; NIKOLI ne omeni baz podatkov, algoritmov ali umetne inteligence
 - Urgency = critical: draftEmail.body takoj naslov roke in predlozi sestanek v 24 urah`;

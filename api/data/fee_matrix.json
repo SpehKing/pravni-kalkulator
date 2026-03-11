@@ -128,5 +128,35 @@
       "rok": 60,
       "scenarij": "Če ste kak rok zamudili kljub dolžni skrbnosti, lahko zahtevate obnovitev pravic v navedenih rokih; če zamudite tudi te, pravica dokončno ugasne."
     }
+  ],
+  "legal_deadlines": [
+    {
+      "zakon": "ZDR-1",
+      "clen": 200,
+      "rok_dni": 30,
+      "opis_scenarija": "Delavec mora v 30 dneh od vročitve odpovedi pogodbe o zaposlitvi zahtevati ugotovitev nezakonitosti odpovedi pred pristojnim delovnim sodiščem.",
+      "zakaj_je_rok_kljucen": "Če delavec zamudi rok, izgubi pravico do sodnega varstva glede zakonitosti odpovedi."
+    },
+    {
+      "zakon": "ZPre-1",
+      "clen": 24,
+      "rok_dni": 3,
+      "opis_scenarija": "Ko prevzemnik doseže prevzemni prag, mora v 3 delovnih dneh obvestiti ATVP, poslovodstvo ciljne družbe in organ za varstvo konkurence ter isti dan objaviti namero za prevzemno ponudbo.",
+      "zakaj_je_rok_kljucen": "Rok sproži formalni prevzemni postopek in regulatorni nadzor nad prevzemom."
+    },
+    {
+      "zakon": "ZPPDFT-2",
+      "clen": 90,
+      "rok_dni": 3,
+      "opis_scenarija": "Če odvetnik zazna sum pranja denarja ali financiranja terorizma, mora to sporočiti pristojnemu organu najpozneje v 3 delovnih dneh od dneva, ko je za sum izvedel.",
+      "zakaj_je_rok_kljucen": "Rok določa obveznost pravočasnega poročanja o sumljivih transakcijah."
+    },
+    {
+      "zakon": "GDPR",
+      "clen": 33,
+      "rok_dni": 3,
+      "opis_scenarija": "Upravljavec mora ob kršitvi varstva osebnih podatkov brez nepotrebnega odlašanja, najpozneje v 72 urah po seznanitvi s kršitvijo, obvestiti pristojni nadzorni organ.",
+      "zakaj_je_rok_kljucen": "Ključen rok za zakonito prijavo kršitve varstva osebnih podatkov regulatorju."
+    }
   ]
 }
