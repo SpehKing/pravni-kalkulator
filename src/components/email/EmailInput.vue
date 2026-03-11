@@ -37,6 +37,7 @@
         rows="12"
         placeholder="Prilepite e-pošto stranke sem..."
         style="width: 100%; border-radius: 12px; border: 1px solid #DDD8CF; background: #FDFCF9; color: #1A1A1A; font-size: 0.875rem; padding: 0.875rem 1rem; outline: none; resize: vertical; font-family: 'DM Sans', sans-serif; line-height: 1.6; transition: border-color 0.2s ease;"
+        @input="selectedTest = null"
         @focus="e => e.target.style.borderColor = '#A0694B'"
         @blur="e => e.target.style.borderColor = '#DDD8CF'"
       ></textarea>
@@ -192,6 +193,6 @@ function handleSubmit() {
     textError.value = 'Prosimo, vnesite vsebino e-pošte (vsaj 30 znakov).'
     return
   }
-  emit('submit', emailText.value.trim())
+  emit('submit', { text: emailText.value.trim(), testId: selectedTest.value })
 }
 </script>

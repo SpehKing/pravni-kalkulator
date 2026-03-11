@@ -18,6 +18,21 @@
           Jadek &amp; Pensa
         </span>
       </div>
+      <!-- Demo/API toggle -->
+      <div style="display: flex; align-items: center; gap: 0.5rem; font-size: 0.75rem; font-weight: 600; letter-spacing: 0.04em;">
+        <span :style="{ color: useCache ? '#A0694B' : '#8A8279' }">Demo</span>
+        <button
+          @click="useCache = !useCache"
+          style="position: relative; width: 36px; height: 20px; border-radius: 9999px; border: none; cursor: pointer; transition: background-color 0.2s ease;"
+          :style="{ backgroundColor: useCache ? '#A0694B' : '#B8B0A4' }"
+        >
+          <span
+            style="position: absolute; top: 2px; width: 16px; height: 16px; border-radius: 50%; background: white; transition: left 0.2s ease;"
+            :style="{ left: useCache ? '2px' : '18px' }"
+          ></span>
+        </button>
+        <span :style="{ color: !useCache ? '#A0694B' : '#8A8279' }">API</span>
+      </div>
     </header>
 
     <!-- Error banner -->
@@ -57,7 +72,8 @@
         <!-- Progress bar -->
         <div style="height: 4px; background: #E0DAD0; border-radius: 9999px; overflow: hidden;">
           <div
-            style="height: 100%; background: #A0694B; border-radius: 9999px; animation: fake-progress-slow 18s ease-out forwards;"
+            style="height: 100%; background: #A0694B; border-radius: 9999px;"
+            :style="{ animation: isCachedRun ? 'fake-progress-fast 10s ease-out forwards' : 'fake-progress-slow 18s ease-out forwards' }"
           ></div>
         </div>
       </div>
@@ -96,10 +112,13 @@
 import { ref } from 'vue'
 import EmailInput from '../components/email/EmailInput.vue'
 import SplitResults from '../components/email/SplitResults.vue'
+import { testEmailCache } from '../data/testEmailCache.js'
 
 const phase = ref('input')
 const error = ref(null)
 const results = ref(null)
+const useCache = ref(true)
+const isCachedRun = ref(false)
 
 const statusMessages = [
   'Razčlenjujem vsebino e-pošte...',
@@ -128,10 +147,28 @@ function stopStatusCycle() {
   }
 }
 
-async function onEmailSubmit(emailText) {
-  phase.value = 'processing'
+async function onEmailSubmit({ text, testId }) {
   error.value = null
+
+  // Check if we can use cached response
+  if (testId && useCache.value && testEmailCache[testId]) {
+    isCachedRun.value = true
+    phase.value = 'processing'
+    startStatusCycle()
+
+    setTimeout(() => {
+      results.value = testEmailCache[testId]
+      stopStatusCycle()
+      phase.value = 'results'
+    }, 10000)
+    return
+  }
+
+  // Real API flow
+  isCachedRun.value = false
+  phase.value = 'processing'
   startStatusCycle()
+  const emailText = text
 
   try {
     // Step 1: Parse email (fast, no external data)
